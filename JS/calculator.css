@@ -197,6 +197,6 @@ button:hover {
 
 @media all and (max-width: 400px) {
     #calculator-body {
-      width: 300px;
+      width: 200px;
     }
   }
